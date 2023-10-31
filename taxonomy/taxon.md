@@ -2,7 +2,7 @@
 layout: documentation
 sideNavigation: sidenav.taxonomy
 title: Taxon
-permalink: /taxonomy/taxon
+permalink: /taxonomy/taxon/_key_
 ---
 
 <!--react and gbif component-->
