@@ -3,7 +3,7 @@ layout: documentation
 sideNavigation: sidenav.taxonomy
 title: Taxon
 permalink: /taxonomy/search
-description: Search the checklist of Fabaceae
+description: Search the checklist
 klass: fullwidth
 lang-ref: species-search
 ---
@@ -30,7 +30,7 @@ class Search extends React.Component {
           pathToTree: '/taxonomy/browse',
           pathToSearch: '/taxonomy/search',
           pathToTaxon: '/taxonomy/taxon/',
-          defaultTaxonKey: '{{site.col.defaultTaxonKey}}',
+          // defaultTaxonKey: '{{site.col.defaultTaxonKey}}',
           citation: 'top' 
         }
       );

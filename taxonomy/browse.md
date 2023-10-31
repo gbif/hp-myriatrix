@@ -3,7 +3,7 @@ layout: documentation
 sideNavigation: sidenav.taxonomy
 title: Browse
 permalink: /taxonomy/browse
-description: Browse the checklist of Fabaceae
+description: Browse the checklist
 klass: fullwidth
 lang-ref: species-browse
 ---
@@ -30,7 +30,7 @@ class Tree extends React.Component {
           pathToTree: '/taxonomy/browse',
           pathToSearch: '/taxonomy/search',
           pathToTaxon: '/taxonomy/taxon/',
-          defaultTaxonKey: '{{site.col.defaultTaxonKey}}',
+          // defaultTaxonKey: '{{site.col.defaultTaxonKey}}',
           citation: 'top'
         }
       );
