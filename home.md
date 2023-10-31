@@ -1,10 +1,10 @@
 ---
 lang-ref: home
 layout: home
-title: Template headline
-description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
-background:  "{{ site.data.images.acalypha_gillespieae.src }}"
-imageLicense: "{{ site.data.images.acalypha_gillespieae.caption }}"
+title: Welcome to Myriatrix
+description: The Fellegship of the Rings
+background:  "{{ site.data.images.narceus_americanus_3961448308.src }}"
+imageLicense: "{{ site.data.images.narceus_americanus_3961448308.caption }}"
 height: 60vh
 cta:
   - text: Observations

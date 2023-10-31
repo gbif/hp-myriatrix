@@ -10,10 +10,12 @@
 # background:  /assets/images/placeholders/irpex_spiculifer_1135723338.jpg
 # imageLicense: [Isotype of _Irpex spiculifer_ G.Cunn.](https://www.gbif.org/occurrence/1135723338) from [Manaaki Whenua - Landcare Research](/collection/034e128e-ee23-42d4-989d-cbe406c04fdb)
 
-irpex:
-  src: /assets/images/placeholders/irpex_spiculifer_1135723338.jpg
+narceus_americanus_3961448308:
+  src: /assets/images/placeholders/narceus_americanus_3961448308.jpg
   caption: |
-    [Isotype of _Irpex spiculifer_ G.Cunn.](https://www.gbif.org/occurrence/1135723338) from [Manaaki Whenua - Landcare Research](/collection/034e128e-ee23-42d4-989d-cbe406c04fdb)
+    Narceus Rafinesque, 1820
+    observed in United States of America
+    by Kristin A. Bakkegard (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
 puccinia:
   src: /assets/images/placeholders/puccinia-grahamii-1135811910.jpg
   caption: |

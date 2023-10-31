@@ -1,6 +1,11 @@
 @import "theme/_main";
 
 // You can add additional styling here
+.navbar-item img {
+  max-height: 2.75rem;
+  margin-right: 12px;
+}
+
 .fullwidth {
   .article {
     width: 100%;
