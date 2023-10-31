@@ -8,9 +8,6 @@ klass: fullwidth
 lang-ref: species-browse
 ---
 
-You can download the latest version of the WCVP-Fabaceae list in .txt (with DarwinCore fields) from the [Catalogue of Life ChecklistBank](https://data.catalogueoflife.org/dataset/2304/about) and in Word format [here](/media/WCVP_Fabaceae_checklist_May_2022.docx).
-
-
 <!--react and gbif component-->
 <script src="https://unpkg.com/react@16/umd/react.production.min.js"></script>
 <script src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js"></script>
