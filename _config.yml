@@ -87,7 +87,7 @@ exclude:
 # be aware that COL ids are unstable https://github.com/CatalogueOfLife/backend/issues/980 - so this might not work tomorrow.
 col:
   gbifDatasetKey: "994e75fa-b187-4b07-a30e-665f4acbe394"
-  version: "1.2.8" # There is no latest version we can get, so we have to rely on a specific version. If the site appears broken, then this probably needs to be updated to the latest version
+  version: "latest" # There is no latest version we can get, so we have to rely on a specific version. If the site appears broken, then this probably needs to be updated to the latest version
   catalogueKey: "6282" 
   # defaultTaxonKey: "3bbc1597-f57f-419e-b952-965f4d53766c"
 
